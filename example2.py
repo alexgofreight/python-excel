@@ -18,6 +18,8 @@ print(arr)
 arr3 = arr.T
 print(arr3)
 print(arr3[:, 2])
+
 print('=====')
+
 print(arr3)
 print(arr3[0, -1])
